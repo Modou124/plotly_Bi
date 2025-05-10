@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import os 
 
-
+server= app.server
 # Theme
 THEME_COLOR = '#3F72AF'  
 SECONDARY_COLOR = '#112D4E'  
